@@ -1,4 +1,5 @@
-/*const raining = false;
+/* *************** if Statements ****************
+const raining = false;
 const cold = false;
 
 if (raining) {
